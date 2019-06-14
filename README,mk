@@ -1,4 +1,9 @@
-        Linux kernel release 3.x <http://kernel.org/>
+# Kernel source for Redmi Note 4/4X - MIDO
+
+
+
+```
+           Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
@@ -409,4 +414,4 @@ IF SOMETHING GOES WRONG:
 
    gdb'ing a non-running kernel currently fails because gdb (wrongly)
    disregards the starting offset for which the kernel is compiled.
-
+```
